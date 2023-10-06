@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "326393290488",
+    "project_id": "ticketwave-1e381",
+    "storage_bucket": "ticketwave-1e381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326393290488:android:bc5653779fedca533b250d",
+        "android_client_info": {
+          "package_name": "com.Foxy.TicketWave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326393290488-0s1k25ec4aqmjkm5m9sljsm49ajhot6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Foxy.TicketWave",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "326393290488-tauocqsqqpu0u8ojg9t433371u8ocgf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHIlBgegejU-OfCNf3J4Og7g_CqS3wNcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326393290488-h8mis5hcoj3rec0g1tas8pvnme43kqsp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326393290488-0jpsiuu9oj7iqn0kfbci9uv7mnclnf42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Foxy.TicketWave"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
